@@ -1,4 +1,4 @@
-# Welcome to my Github Page🙋‍♀️
+# Welcome to my GitHub Page🙋‍♀️
 - 👋 Hi, I’m @soniasharma12
 -  📍  I'm based in Toronto, ON
 - 👀 I’m interested in Data Science along with User Interface/ User Experience Design 
