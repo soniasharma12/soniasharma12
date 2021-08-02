@@ -1,5 +1,8 @@
+# Welcome to my Github Page🙋‍♀️
 - 👋 Hi, I’m @soniasharma12
-- 👀 I’m interested in data science
+-  📍  I'm based in Toronto, ON
+- 👀 I’m interested in Data Science along with User Interface/ User Experience Design 
+- 👩‍💻 I can code in Python, Java, and C++
 - 🌱 I’m currently learning Machine Learning with Python
 
 <!---
