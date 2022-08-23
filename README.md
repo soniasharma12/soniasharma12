@@ -1,5 +1,4 @@
-# Welcome to my GitHub Page🙋‍♀️
-## 👋 Hi, I’m Sonia
+# 👋 Hi, I’m Sonia 
 
 -  📍  I'm based in Toronto, ON
 - 👀 I’m interested in Data Science along with User Interface/ User Experience Design 
