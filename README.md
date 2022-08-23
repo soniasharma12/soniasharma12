@@ -6,11 +6,16 @@
 
 😊 I enjoy learning from new experiences, collaborating on complex problems, and figuring out how to make the most effective decision. I am passionate to learn and love to be challenged!
 
-## More About me
+## More About Me
 - 📍 Based in: Toronto, ON
 - 💻 Tech Interests: Data Science, UI/UX Designing, A.I and Machine Learning
 - 👀 Hobbies: Reading, dancing, playing volleyball, and coding
 
+## Languages 
+
+## Tools
+
+## Find me on the web!
 
 <!---
 soniasharma12/soniasharma12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
