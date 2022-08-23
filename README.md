@@ -1,11 +1,12 @@
 # Hi, I’m Sonia 👋🏽👩🏽‍💻
 ![SONIA SHARMA (2)](https://user-images.githubusercontent.com/71413895/186253846-0a7ac684-fdee-4ee9-af1a-02e22476d2f2.png)
 
-As an aspiring data scientist, computer programmer, and A.I devotee. I desire to contribute to making our technology-driven world a better place from both the design and development aspects of software. I would like to pursue Computer Science since I find fulfillment working on impactful software and technology projects. Additionally, I consider myself a dedicated, hardworking, and detail-oriented individual, which I believe are crucial skills one should have in order to pursue within this line of work.
+🌱 As an aspiring data scientist, computer programmer, and A.I devotee. I desire to contribute to making our technology-driven world a better place from both the design and development aspects of software. I would like to pursue Computer Science since I find fulfillment working on impactful software and technology projects. Additionally, I consider myself a dedicated, hardworking, and detail-oriented individual, which I believe are crucial skills one should have in order to pursue within this line of work.
 
 
-I enjoy learning from new experiences, collaborating on complex problems, and figuring out how to make the most effective decision. I am passionate to learn and love to be challenged!
+😊 I enjoy learning from new experiences, collaborating on complex problems, and figuring out how to make the most effective decision. I am passionate to learn and love to be challenged!
 
+## More About me
 - 📍 Based in: Toronto, ON
 - 💻 Tech Interests: Data Science, UI/UX Designing, A.I and Machine Learning
 - 👀 Hobbies: Reading, dancing, playing volleyball, and coding
