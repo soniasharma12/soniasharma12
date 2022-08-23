@@ -7,7 +7,7 @@
 😊 I enjoy learning from new experiences, collaborating on complex problems, and figuring out how to make the most effective decision. I am passionate to learn and love to be challenged!
 
 ## 🙋🏽‍♀️ More About Me
-- 📍 Based in: Toronto, ON
+- 📍 Based in: London, ON
 - 💡 Tech Interests: Data Science, UI/UX Designing, A.I and Machine Learning
 - 👀 Hobbies: Reading, dancing, playing volleyball, and coding
 
