@@ -23,7 +23,8 @@
 
 
 ## 🌐 Find me on the web!
-
+<a href="https://www.linkedin.com/in/sonia-sharma-3343421b6/" alt="Linkedin"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://devpost.com/soniias2004/" alt="Devpost"> <img src = "https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"> 
+  
 <!---
 soniasharma12/soniasharma12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
