@@ -12,7 +12,7 @@
 - 👀 Hobbies: Reading, dancing, playing volleyball, and coding
 
 ## 💻 Languages 
-[![](https://img.shields.io/badge/<PYTHON><YELLOW>)]
+[![](https://img.shields.io/badge/<PYTHON>-<YELLOW>)]
 
 ## 🛠 Tools
 
